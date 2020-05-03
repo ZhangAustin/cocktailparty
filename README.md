@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Multi-Modal Multi-Channel System and Corpus For Cocktail Party Problem
 
 You can use the [editor on GitHub](https://github.com/ZhangAustin/cocktail_party/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
