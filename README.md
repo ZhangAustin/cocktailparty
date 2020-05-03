@@ -1,19 +1,19 @@
-## Multi-Modal Multi-Channel System and Corpus For Cocktail Party Problem
+## Cocktail Party Problem
 
 You can use the [editor on GitHub](https://github.com/ZhangAustin/cocktail_party/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Multi-Modal Multi-Channel Corpus  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Training Set
+# Evaluation Set
+# Data Loader
 
 - Bulleted
 - List
@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Multi-Modal Multi-Channel System
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhangAustin/cocktail_party/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
