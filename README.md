@@ -35,19 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ## References
 
 * #### Multi-Modal System
-  ##### [1] Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems
+**  ###### [1] Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems
 
-* #### Multi-Modal Diarization
-  ##### [2] [Self-supervised learning for audio-visual speaker diarization](https://arxiv.org/pdf/2002.05314)
+* #### Multi-Modal Speaker Diarization
+**  ###### [2] [Self-supervised learning for audio-visual speaker diarization](https://arxiv.org/pdf/2002.05314)
 
-* #### Multi-Modal Separation
-- [x] [3] [Multi-modal Multi-channel Target Speech Separation](https://arxiv.org/pdf/2003.07032)
-
-- [x] [4] [Time Domain Audio Visual Speech Separation](https://arxiv.org/pdf/1904.03760)
+* #### Multi-Modal Speech Separation
+  ###### [3] [Multi-modal Multi-channel Target Speech Separation](https://arxiv.org/pdf/2003.07032)
+  ###### [4] [Time Domain Audio Visual Speech Separation](https://arxiv.org/pdf/1904.03760)
 
 - [x] [5] [Audio-Visual Speech Separation and Dereverberation with a Two-Stage Multimodal Network](https://arxiv.org/pdf/1909.07352)
 
-* #### Multi-Modal Recognition
+* #### Multi-Modal Speech Recognition
 - [x] [6] [Audio-visual Recognition of Overlapped speech for the LRS2 dataset](https://arxiv.org/pdf/2001.01656.pdf)
 
 * #### Privacy Preserving (if video privacy is concerned)
