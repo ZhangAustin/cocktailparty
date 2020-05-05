@@ -2,6 +2,10 @@
 
 This is an audio-visual dataset with transcriptions, speaker identities and their directional location in the camera. The corpus contains training, dev and evaluation sets. The training set consists of short clips of human speech extracted from [Tencent Video](https://v.qq.com/). The audios in training set were simulated into multi-channel far-field data. The dev and evaluation set consists of multi-channel audios and videos both recorded using our devices which contain a 15-channel microphone array and a 180-degree 4k camera. 
 
+ ### Download
+
+ ### Example of evaluation data:
+
 You can use the [editor on GitHub](https://github.com/ZhangAustin/cocktail_party/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
