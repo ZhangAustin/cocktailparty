@@ -34,11 +34,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## References
 
-* #### Multi-Modal System
-  *  ###### [1] [Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems]()
+Some of our publications related to this corpus can be found below.
+
+* #### Multi-Modal System and Corpus
+  *  ###### [1] [Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems(in preparation)]()
 
 * #### Multi-Modal Speaker Diarization
-  *  ###### [2] [Multi-modal Multi-Channel Speaker Diarization]()
+  *  ###### [2] [Multi-modal Multi-Channel Speaker Diarization(in preparation)]()
   *  ###### [3] [Self-supervised Learning for Audio-Visual Speaker Diarization](https://arxiv.org/abs/2002.05314)
 
 * #### Multi-Modal Speech Separation
