@@ -35,7 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ## References
 
 * #### Multi-Modal System
-- [x] [1] Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems
+> [1] Multi-modal Multi-Channel System and Corpus for Cocktail Party Problems
 
 * #### Multi-Modal Diarization
 - [x] [2] [Self-supervised learning for audio-visual speaker diarization](https://arxiv.org/pdf/2002.05314)
