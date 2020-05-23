@@ -11,9 +11,9 @@ You can use the [editor on GitHub](https://github.com/ZhangAustin/cocktail_party
 
 ## Cocktail Party Problem
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The cocktail party effect is the phenomenon of the brain’s ability to focus one’s auditory attention (an effect of selective attention in the brain) on a particular stimulus while filtering out a range of other stimuli. --- wiki.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
